@@ -1,0 +1,6 @@
+C:\Users\erdal.caglar\Desktop\Taschenrechner\TaschenRechner_1.0\Taschenrechner_Library\bin\Debug\Taschenrechner_Library.dll
+C:\Users\erdal.caglar\Desktop\Taschenrechner\TaschenRechner_1.0\Taschenrechner_Library\bin\Debug\Taschenrechner_Library.pdb
+C:\Users\erdal.caglar\Desktop\Taschenrechner\TaschenRechner_1.0\Taschenrechner_Library\obj\Debug\Taschenrechner_Library.csproj.AssemblyReference.cache
+C:\Users\erdal.caglar\Desktop\Taschenrechner\TaschenRechner_1.0\Taschenrechner_Library\obj\Debug\Taschenrechner_Library.csproj.CoreCompileInputs.cache
+C:\Users\erdal.caglar\Desktop\Taschenrechner\TaschenRechner_1.0\Taschenrechner_Library\obj\Debug\Taschenrechner_Library.dll
+C:\Users\erdal.caglar\Desktop\Taschenrechner\TaschenRechner_1.0\Taschenrechner_Library\obj\Debug\Taschenrechner_Library.pdb
